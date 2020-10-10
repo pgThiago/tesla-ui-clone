@@ -9,7 +9,7 @@ const Page: React.FC = () => {
   return (
     <Container>
       
-      <ModelsWrapper />
+      <ModelsWrapper>
 
         <div>
 
