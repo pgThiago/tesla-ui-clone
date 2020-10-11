@@ -2,10 +2,9 @@ import React from 'react';
 
 import { Container, Heading, Buttons } from './styles';
 
-
 interface Props {
-    label: string;
-    description: string;
+  label: string;
+  description: string;
 }
 
 const DefaultOverlayContent: React.FC<Props> = ({ label, description }) => {

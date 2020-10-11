@@ -4,6 +4,7 @@ import { Container } from './styles';
 
 import { ModelsWrapper, ModelSection } from '../Model';
 import DefaultOverlayContent from '../DefaultOverlayContent';
+import UniqueOverlay from '../UniqueOverlay';
 
 const Page: React.FC = () => {
   return (
@@ -12,18 +13,30 @@ const Page: React.FC = () => {
       <ModelsWrapper>
 
         <div>
-
-          <ModelSection
-            modelName="Model One"
-            overlayNode={
-              <DefaultOverlayContent
-                label="Model One"
-                description="Order Online for Delivery"
-              />
-            }
-          />
+          {[
+            'Model One',
+            'Model Two',
+            'Model Three',
+            'Model Four',
+            'Model Five',
+            'Model Six',
+            'Model Seven',
+          ].map(modelName => (
+            <ModelSection
+              className="colored"
+              modelName={modelName}
+              overlayNode={
+                <DefaultOverlayContent
+                  label={modelName}
+                  description="Order Online for Delivery"
+                />
+              }
+            />
+          ))}
 
         </div>
+
+        <UniqueOverlay />
 
       </ModelsWrapper>
 
