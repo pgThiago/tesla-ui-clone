@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9cc7a1ba3cef23d1705cab42132fe77",
+    "revision": "8287fd68cc538edf8c5a1163fed0cabe",
     "url": "/tesla-ui-clone/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tesla-ui-clone/static/js/2.92df4f00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "907bb3d1ed17e49cd5b6",
-    "url": "/tesla-ui-clone/static/js/main.db872326.chunk.js"
+    "revision": "39c7bb8861b4bb5df211",
+    "url": "/tesla-ui-clone/static/js/main.bf23f71f.chunk.js"
   },
   {
     "revision": "d47490a942a3428de69f",
