@@ -16,15 +16,15 @@ const UniqueOverlay: React.FC = () => {
     <Footer>
       <ul>
         <li>
-          <a href="#">UI Clone</a>
+          <a href="https://github.com/pgThiago/tesla-ui-clone">UI Clone</a>
         </li>
 
         <li>
-          <a href="#">Made with 0 knowledge</a>
+          <a href="https://github.com/pgThiago/tesla-ui-clone">Made with 0 knowledge</a>
         </li>
 
         <li>
-          <a href="#">By Thiago Silva</a>
+          <a href="https://github.com/pgThiago/tesla-ui-clone">By Thiago Silva</a>
         </li>
 
         <li>
