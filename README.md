@@ -1,3 +1,8 @@
+# Practicing/Learning a more advanced React JS with [Guilerme Rodz](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t=841s&ab_channel=Rocketseat).
+
+# To see original Tesla's site [click here](https://www.tesla.com/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
