@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tesla-ui-clone/precache-manifest.9ec08a6423417af6af5e5de9af03820d.js"
+  "/tesla-ui-clone/precache-manifest.dd08186b52a032e401e1ad2cffa51bcd.js"
 );
 
 self.addEventListener('message', (event) => {

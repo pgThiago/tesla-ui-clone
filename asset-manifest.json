@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tesla-ui-clone/static/js/main.b92528f4.chunk.js",
-    "main.js.map": "/tesla-ui-clone/static/js/main.b92528f4.chunk.js.map",
+    "main.js": "/tesla-ui-clone/static/js/main.8f500635.chunk.js",
+    "main.js.map": "/tesla-ui-clone/static/js/main.8f500635.chunk.js.map",
     "runtime-main.js": "/tesla-ui-clone/static/js/runtime-main.6e50dad0.js",
     "runtime-main.js.map": "/tesla-ui-clone/static/js/runtime-main.6e50dad0.js.map",
     "static/js/2.92df4f00.chunk.js": "/tesla-ui-clone/static/js/2.92df4f00.chunk.js",
     "static/js/2.92df4f00.chunk.js.map": "/tesla-ui-clone/static/js/2.92df4f00.chunk.js.map",
     "index.html": "/tesla-ui-clone/index.html",
-    "precache-manifest.9ec08a6423417af6af5e5de9af03820d.js": "/tesla-ui-clone/precache-manifest.9ec08a6423417af6af5e5de9af03820d.js",
+    "precache-manifest.dd08186b52a032e401e1ad2cffa51bcd.js": "/tesla-ui-clone/precache-manifest.dd08186b52a032e401e1ad2cffa51bcd.js",
     "service-worker.js": "/tesla-ui-clone/service-worker.js",
     "static/js/2.92df4f00.chunk.js.LICENSE.txt": "/tesla-ui-clone/static/js/2.92df4f00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e50dad0.js",
     "static/js/2.92df4f00.chunk.js",
-    "static/js/main.b92528f4.chunk.js"
+    "static/js/main.8f500635.chunk.js"
   ]
 }
