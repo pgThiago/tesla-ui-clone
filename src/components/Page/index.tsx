@@ -23,6 +23,7 @@ const Page: React.FC = () => {
             'Model Seven',
           ].map(modelName => (
             <ModelSection
+              key={modelName}
               className="colored"
               modelName={modelName}
               overlayNode={

@@ -1,52 +1,48 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+
     .colored:nth-child(1) {
-        background-image: url('https://images.unsplash.com/photo-1471479917193-f00955256257?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1148&q=80');
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/bugatti_chiron_speed_side_view_113074_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
     }
     .colored:nth-child(2) {
-        background-image: url('https://images.unsplash.com/photo-1578216736828-d05069ba1a1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/nissan_gtr_supercar_121502_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
+        
     }
     .colored:nth-child(3) {
-        background-image: url('https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=847&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/mclaren_p1_red_sports_car_side_view_109728_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
     }
     .colored:nth-child(4) {
-        background-image: url('https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/aston_martin_vulcan_side_view_106569_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
     }
     .colored:nth-child(5) {
-        background-image: url('https://images.unsplash.com/photo-1565608257407-008f1dd5b883?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/audi_r8_v10_side_view_road_109803_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
     }
     .colored:nth-child(6) {
-        background-image: url('https://images.unsplash.com/photo-1575151715686-e9963e6f72c9?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/porsche_911_turbo_gtr_carbon_edition_991_black_103236_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;
     }
     .colored:nth-child(7) {
-        background-image: url('https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-        background-size: 100%;
-        background-size: 100% 100%;
+        background-image: url('https://images.wallpaperscraft.com/image/kia_sportspace_concept_red_side_view_100229_3840x2400.jpg');
+        background-position: center;
         background-repeat: no-repeat;
-        background: cover;
+        background-size: cover;    
     }
 `;
